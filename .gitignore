@@ -1,3 +1,6 @@
+# because I delete them in my home dir
+anki_cards/**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
